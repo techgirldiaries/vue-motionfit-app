@@ -1,6 +1,6 @@
 # Active Workout Tracker App
 
-MotionFit Tracker App, a simple active workout tracker.
+MotionFit Tracker App, a simple workout tracker design using VueJS and TailwindCSS.
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5c0e9bf3-75a1-4feb-80ce-2b10612c7ead/deploy-status)](https://app.netlify.com/sites/motionfit-tracker/deploys)
